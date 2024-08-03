@@ -1,11 +1,16 @@
 *{
     margin:0px;
     padding:0px;
-    margin-top: 10px;
-}
+    
 .m_header{
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    text-align:center;
+    margin:0 200px;
+}
+.main_title{
+    font-size:45px;
+    color:black;
 }
 .m_header h1{
     text-align:center;
@@ -29,6 +34,12 @@ li a{
     font-size:20px;
     color:white;
     background-color: chocolate;
-    padding:10px;
+   
     margin:5px;
+    border:0px;
+    font-weight:Bold;
+    border-radius:5px;
+}
+header{
+    background-color: rgb(243,221,192);
 }
