@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding:0px;
+    margin-top: 10px;
+}
+.m_header{
+    display:flex;
+    justify-content: space-around;
+}
+.m_header h1{
+    text-align:center;
+}
+.m_header ul{
+    display:flex;
+}
+.m_header li{
+    margin-left:43px;
+    list-style:none;
+    font-size:20px;
+   
+}
+.logo_color{
+    color:chocolate;
+}
+li a{
+    text-decoration: none;
+}
+.btn_primary{
+    font-size:20px;
+    color:white;
+    background-color: chocolate;
+    padding:10px;
+    margin:5px;
+}
